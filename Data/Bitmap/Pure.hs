@@ -47,7 +47,7 @@ module Data.Bitmap.Pure
 
 import Data.Word
 
-import Foreign
+import Foreign hiding (unsafePerformIO)
 
 import Data.ByteString (ByteString)
 import qualified Data.ByteString as B

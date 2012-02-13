@@ -1,5 +1,5 @@
 Name:                bitmap
-Version:             0.0.1
+Version:             0.0.2
 Synopsis:            A library for handling and manipulating bitmaps.
 Description:         A library for handling and manipulating bitmaps (that is,
                      rectangular pixel arrays).
